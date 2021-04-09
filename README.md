@@ -3,7 +3,7 @@
 
 1. Install [Better Discord](https://github.com/rauenzi/BetterDiscordApp/releases)
 
-After install locate the theme in %appdata%\BetterDiscord\themess
+After install locate the theme in %appdata%\BetterDiscord\themes
 
 
 And we only have to go to betterdiscord themes configuration and load the theme
