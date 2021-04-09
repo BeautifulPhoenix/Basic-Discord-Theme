@@ -8,6 +8,8 @@ After install locate the theme in C:\Users\%USERNAME%\AppData\Roaming\BetterDisc
 
 And we only have to go to betterdiscord themes configuration and load the theme
 
+Soon there will be more backgrounds
+
 Enjoy the Theme
 
 
