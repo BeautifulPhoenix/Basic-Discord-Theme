@@ -10,3 +10,19 @@ And we only have to go to betterdiscord themes configuration and load the theme
 
 Enjoy the Theme
 
+
+In Menu:
+
+![Image of Menu](https://i.imgur.com/dWGpMHX.png)
+
+
+
+
+In Chat:
+![Image of Chat](https://i.imgur.com/f5t9ww1.png)
+
+
+
+
+
+
